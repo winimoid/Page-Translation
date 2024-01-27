@@ -8,6 +8,8 @@ It uses the yaml parser for javascript writen by Diogo Costa (costa.h4evr@gmail.
 
 See the YAML-README.md file for more informations on the yaml parser.
 
+There is a simple example in the index.html file to translate a web page in english, french and ewe.
+
 **DISCLAIMER**
 
 I try to deliver high quality products, but I do not guarantee that the product
